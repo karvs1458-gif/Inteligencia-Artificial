@@ -1,15 +1,17 @@
 import numpy as np
 # entradas para la neurna
 X = np.array([
-    [0],
-    [1]
+    [0,0],
+    [0,1],
+    [1,0],
+    [1,1]
 ])
 #salidas
-Y = np.array([1,0])
+Y = np.array([0,1,1,1])
 #pesos para las entradas
-W = [-1]
+W = [2,5]
 #umbral para la funcion de activacion
-umbral = 0
+umbral = 1
 
 class McCullochPitts:
     def __init__(self, weights, umbral):
