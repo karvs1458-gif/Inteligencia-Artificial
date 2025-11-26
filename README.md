@@ -7,11 +7,13 @@ Si estás explorando cómo se construyen modelos de IA, cómo se entrenan o simp
 **Convoluciones**
 Implementaciones de Redes Neuronales Convolucionales (CNN), ideales para el procesamiento de imágenes.
 - Clasificación de Dígitos  
-- Clasificación de Prendas de Ropa  
+- Clasificación de Prendas de Ropa
+
 **McCullochPitts**
 Modelos neuronales básicos que muestran los fundamentos de las compuertas lógicas.
 - NOT  
 - OR
+  
 **Multicapa (MLP)**
 Redes neuronales de múltiples capas aplicadas a diferentes problemas del mundo real.
 - Clasificación de Candidatos  
@@ -19,6 +21,7 @@ Redes neuronales de múltiples capas aplicadas a diferentes problemas del mundo 
 - Popularidad de una Canción  
 - Eficiencia del Trabajador  
 - XOR (implementación tradicional y desde cero usando NumPy)
+  
 **Perceptrón**
 Ejemplos simples para entender cómo funciona un perceptrón lineal.
 - NOT  
