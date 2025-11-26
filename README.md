@@ -9,12 +9,12 @@ Implementaciones de Redes Neuronales Convolucionales (CNN), ideales para el proc
 - Clasificación de Dígitos  
 - Clasificación de Prendas de Ropa
 
-**McCullochPitts**
+**McCullochPitts:**
 Modelos neuronales básicos que muestran los fundamentos de las compuertas lógicas.
 - NOT  
 - OR
   
-**Multicapa (MLP)**
+**Multicapa (MLP):**
 Redes neuronales de múltiples capas aplicadas a diferentes problemas del mundo real.
 - Clasificación de Candidatos  
 - Flor de Iris  
@@ -22,11 +22,11 @@ Redes neuronales de múltiples capas aplicadas a diferentes problemas del mundo 
 - Eficiencia del Trabajador  
 - XOR (implementación tradicional y desde cero usando NumPy)
   
-**Perceptrón**
+**Perceptrón:**
 Ejemplos simples para entender cómo funciona un perceptrón lineal.
 - NOT  
 - OR
-**Recurrentes (RNN)**
+**Recurrentes (RNN):**
 Modelos pensados para trabajar con datos secuenciales.
 - Predicción del siguiente número  
 - Predicción del valor del Bitcoin 
