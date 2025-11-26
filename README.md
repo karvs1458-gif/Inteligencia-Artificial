@@ -4,7 +4,7 @@ El propósito de este repositorio es servir como un recurso accesible para estud
 Si estás explorando cómo se construyen modelos de IA, cómo se entrenan o simplemente quieres aprender resolviendo problemas reales, este repositorio es para ti. ¡Te invito a revisarlo, usarlo y aprender con él!
 
 ## Contenido del Repositorio:
-**Convoluciones**
+**Convoluciones:**
 Implementaciones de Redes Neuronales Convolucionales (CNN), ideales para el procesamiento de imágenes.
 - Clasificación de Dígitos  
 - Clasificación de Prendas de Ropa
